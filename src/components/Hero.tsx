@@ -7,7 +7,7 @@ const slides = [
         description: "I build modern web applications with React, TypeScript, and Node.js.",
     },
     {
-        title: "React & Tailwind Enthusiast",
+        title: "Spring, React & Tailwind Enthusiast",
         subtitle: "Front-End Specialist",
         description: "Passionate about creating beautiful and performant user interfaces.",
     },

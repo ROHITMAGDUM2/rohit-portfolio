@@ -34,6 +34,7 @@ const Header = () => (
                     rel="noopener noreferrer"
                     className="px-4 py-2 bg-white text-green-600 rounded-full font-semibold shadow hover:bg-green-100 transition"
                 >
+
                     HackerRank
                 </a>
             </nav>
